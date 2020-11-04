@@ -1,0 +1,82 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Donald Merand",
+	"icon": "https://micro.blog/dlm/avatar.jpg",
+	"home_page_url": "https://dl.merand.org/",
+	"feed_url": "https://dl.merand.org/feed.json",
+	"items": [
+		
+			{
+				"id": "http://dlm.micro.blog/2020/11/04/my-choice-of.html",
+				
+				"content_html": "<p>My choice of light reading to distract me from the election: <a href=\"https://micro.blog/books/9780374538651\">Subprime Attention Crisis</a> by Tim Hwang 📚</p>\n",
+				"content_text": "My choice of light reading to distract me from the election: [Subprime Attention Crisis](https://micro.blog/books/9780374538651) by Tim Hwang 📚\n",
+				"date_published": "2020-11-04T16:39:08-05:00",
+				"url": "https://dl.merand.org/2020/11/04/my-choice-of.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/10/31/halloween-was-epidemiologically.html",
+				
+				"content_html": "<p>Halloween was epidemiologically unsound long before any pandemic&hellip; At the beginning of flu season each year, let&rsquo;s have every child in the neighborhood, no matter how sick, walk to everybody&rsquo;s house, and touch a bunch of things.</p>\n",
+				"content_text": "Halloween was epidemiologically unsound long before any pandemic... At the beginning of flu season each year, let's have every child in the neighborhood, no matter how sick, walk to everybody's house, and touch a bunch of things.\n",
+				"date_published": "2020-10-31T17:08:58-05:00",
+				"url": "https://dl.merand.org/2020/10/31/halloween-was-epidemiologically.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/10/31/ive-been-listening.html",
+				
+				"content_html": "<p>I&rsquo;ve been listening to <a href=\"https://adriannelenker.bandcamp.com/album/songs\">Songs</a>  by Adrianne Lenker - it&rsquo;s better each time I listen to it. 🎵</p>\n\n<p>Good accompaniment to making some jam, applesauce, and roasted squash.</p>\n\n<p><img src=\"uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I've been listening to [Songs](https://adriannelenker.bandcamp.com/album/songs)  by Adrianne Lenker - it's better each time I listen to it. 🎵\n\n Good accompaniment to making some jam, applesauce, and roasted squash.\n\n<img src=\"uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-10-31T10:34:25-05:00",
+				"url": "https://dl.merand.org/2020/10/31/ive-been-listening.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/10/27/i-love-making.html",
+				
+				"content_html": "<p>I love making granola flavors that nobody would ever sell; today&rsquo;s batch was pumpkin, chia, and flax seed with dried Asian pear, sun butter, and maple syrup. Basically using up pantry items but it&rsquo;s really quite good.</p>\n",
+				"content_text": "I love making granola flavors that nobody would ever sell; today's batch was pumpkin, chia, and flax seed with dried Asian pear, sun butter, and maple syrup. Basically using up pantry items but it's really quite good.\n",
+				"date_published": "2020-10-27T22:17:10-05:00",
+				"url": "https://dl.merand.org/2020/10/27/i-love-making.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/10/27/this-article-wonderfully.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1\">This article</a> wonderfully explains why vim is so appealling.</p>\n\n<p>I hadn&rsquo;t considered how composability is the unifying theme that binds most of my favorite software, but it seems obvious now that it&rsquo;s been stated. To me, that&rsquo;s the hallmark of an elegant idea.</p>\n",
+				"content_text": "[This article](https://medium.com/@mkozlows/why-atom-cant-replace-vim-433852f4b4d1) wonderfully explains why vim is so appealling.\n\nI hadn't considered how composability is the unifying theme that binds most of my favorite software, but it seems obvious now that it's been stated. To me, that's the hallmark of an elegant idea.\n",
+				"date_published": "2020-10-27T07:32:00-05:00",
+				"url": "https://dl.merand.org/2020/10/27/this-article-wonderfully.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/10/26/if-i-had.html",
+				
+				"content_html": "<p>If I had known how easy it is to back up Google Drive and other cloud services to a Synology NAS, I would have purchased one years ago! They even do a thing where they convert docs to MS Office equivalents, which is crucial.</p>\n",
+				"content_text": "If I had known how easy it is to back up Google Drive and other cloud services to a Synology NAS, I would have purchased one years ago! They even do a thing where they convert docs to MS Office equivalents, which is crucial.\n",
+				"date_published": "2020-10-26T16:29:22-05:00",
+				"url": "https://dl.merand.org/2020/10/26/if-i-had.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/10/25/i-had-tolaugh.html",
+				
+				"content_html": "<p>I had to\nlaugh at the phrase &ldquo;LARP security&rdquo;, and I&rsquo;m definitely guilty as charged.</p>\n\n<p>But I also got  my family to use Signal, which hopefully counts for something!</p>\n\n<p><blockquote class=\"quoteback\" data-title=\"\" data-author=\"Latacora\" data-avatar=\"https://micro.blog/latacora/avatar.jpg\" cite=\"https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html\">Stop Using Encrypted Email <a href=\"https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html\">latacora.micro.blog</a><footer>Latacora <cite><a href=\"https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html\">https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "I had to\r\nlaugh at the phrase \"LARP security\", and I'm definitely guilty as charged.\r\n\r\nBut I also got  my family to use Signal, which hopefully counts for something!\r\n\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Latacora\" data-avatar=\"https://micro.blog/latacora/avatar.jpg\" cite=\"https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html\">Stop Using Encrypted Email <a href=\"https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html\">latacora.micro.blog</a><footer>Latacora <cite><a href=\"https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html\">https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2020-10-25T07:11:51-05:00",
+				"url": "https://dl.merand.org/2020/10/25/i-had-tolaugh.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/10/24/212739.html",
+				
+				"content_html": "<p><img src=\"uploads/2020/c631677210.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p>I&rsquo;m amazed that these are real.</p>\n",
+				"content_text": "\n<img src=\"uploads/2020/c631677210.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nI'm amazed that these are real.\n",
+				"date_published": "2020-10-24T20:27:00-05:00",
+				"url": "https://dl.merand.org/2020/10/24/212739.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/10/24/currently-reading-ursula.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/1598536036\">Ursula K. Le Guin: Always Coming Home (LOA #315): Author&rsquo;s Expanded Edition (Library of America Ursula K. Le Guin Edition)</a> by Ursula K. Le Guin 📚</p>\n\n<p>It&rsquo;s very different from Earthsea and the Hainish novels, and I&rsquo;m curious to see where it goes.</p>\n",
+				"content_text": "Currently reading: [Ursula K. Le Guin: Always Coming Home (LOA #315): Author's Expanded Edition (Library of America Ursula K. Le Guin Edition)](https://micro.blog/books/1598536036) by Ursula K. Le Guin 📚\r\n\r\nIt's very different from Earthsea and the Hainish novels, and I'm curious to see where it goes.\n",
+				"date_published": "2020-10-24T19:50:53-05:00",
+				"url": "https://dl.merand.org/2020/10/24/currently-reading-ursula.html"
+			}
+	]
+}
