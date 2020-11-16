@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dlm.micro.blog/2020/11/16/im-not-sure.html",
+				
+				"content_html": "<p>I&rsquo;m not sure when this happened, but the media controls in Windows 10 suddenly seem to work with Firefox. It&rsquo;s a small thing, but it&rsquo;s so nice that I can pause/play or change tracks/volume from the keyboard or trackpad while I&rsquo;m streaming music or video.</p>\n",
+				"content_text": "I'm not sure when this happened, but the media controls in Windows 10 suddenly seem to work with Firefox. It's a small thing, but it's so nice that I can pause/play or change tracks/volume from the keyboard or trackpad while I'm streaming music or video.\n",
+				"date_published": "2020-11-16T16:49:19-05:00",
+				"url": "https://dl.merand.org/2020/11/16/im-not-sure.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/11/09/having-finished-the.html",
+				
+				"content_html": "<p>Having finished the book, I can strongly recommend <a href=\"https://micro.blog/books/9780374538651\">Subprime Attention Crisis</a> by Tim Hwang 📚. Though maybe the folks here on Micro.blog are the proverbial choir :)</p>\n",
+				"content_text": "Having finished the book, I can strongly recommend [Subprime Attention Crisis](https://micro.blog/books/9780374538651) by Tim Hwang 📚. Though maybe the folks here on Micro.blog are the proverbial choir :)\n",
+				"date_published": "2020-11-09T19:24:27-05:00",
+				"url": "https://dl.merand.org/2020/11/09/having-finished-the.html"
+			},
+			{
 				"id": "http://dlm.micro.blog/2020/11/04/my-choice-of.html",
 				
 				"content_html": "<p>My choice of light reading to distract me from the election: <a href=\"https://micro.blog/books/9780374538651\">Subprime Attention Crisis</a> by Tim Hwang 📚</p>\n",
