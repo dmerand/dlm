@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://dlm.micro.blog/2020/12/03/the-precursor-is.html",
+				
+				"content_html": "<p>The <a href=\"https://www.crowdsupply.com/sutajio-kosagi/precursor\">Precursor</a> is one of the most interesting tech hardware projects I&rsquo;ve seen. Everything Bunnie Huang makes is years ahead of the curve. Help support this project!</p>\n",
+				"content_text": "The [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) is one of the most interesting tech hardware projects I've seen. Everything Bunnie Huang makes is years ahead of the curve. Help support this project!\n",
+				"date_published": "2020-12-03T16:45:34-05:00",
+				"url": "https://dl.merand.org/2020/12/03/the-precursor-is.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/11/19/me-watching-other.html",
+				
+				"content_html": "<p>Me watching other people chop with kitchen knives: 👀 😱😩💀</p>\n\n<p>Me chopping in my own kitchen: 💃💨🪓</p>\n",
+				"content_text": "Me watching other people chop with kitchen knives: 👀 😱😩💀\n\nMe chopping in my own kitchen: 💃💨🪓\n",
+				"date_published": "2020-11-19T13:11:00-05:00",
+				"url": "https://dl.merand.org/2020/11/19/me-watching-other.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/11/16/its-never-a.html",
+				
+				"content_html": "<p>It&rsquo;s never a bad time to listen to Tortoise&rsquo;s <a href=\"https://tortoise.bandcamp.com/album/beacons-of-ancestorship\">Beacons of Ancestorship</a> again. 🎵</p>\n",
+				"content_text": "It's never a bad time to listen to Tortoise's [Beacons of Ancestorship](https://tortoise.bandcamp.com/album/beacons-of-ancestorship) again. 🎵\n",
+				"date_published": "2020-11-16T17:12:37-05:00",
+				"url": "https://dl.merand.org/2020/11/16/its-never-a.html"
+			},
+			{
 				"id": "http://dlm.micro.blog/2020/11/16/im-not-sure.html",
 				
 				"content_html": "<p>I&rsquo;m not sure when this happened, but the media controls in Windows 10 suddenly seem to work with Firefox. It&rsquo;s a small thing, but it&rsquo;s so nice that I can pause/play or change tracks/volume from the keyboard or trackpad while I&rsquo;m streaming music or video.</p>\n",
