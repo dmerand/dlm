@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dlm.micro.blog/2020/12/12/even-if-the.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;Even if the bowl is broken (and the bowl is broken), from the clay and the making and the firing and the pattern, even if the pattern is incomplete (and the pattern is incomplete), let the mind draw its energy. Let the heart complete the pattern.&rdquo;</p>\n</blockquote>\n\n<p>Ursula Le Guin, __ Always Coming Home __</p>\n",
+				"content_text": "> \"Even if the bowl is broken (and the bowl is broken), from the clay and the making and the firing and the pattern, even if the pattern is incomplete (and the pattern is incomplete), let the mind draw its energy. Let the heart complete the pattern.\"\n\nUrsula Le Guin, __ Always Coming Home __\n",
+				"date_published": "2020-12-12T18:26:40-05:00",
+				"url": "https://dl.merand.org/2020/12/12/even-if-the.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2020/12/04/this-is-me.html",
+				
+				"content_html": "<p>This is me at work today.</p>\n\n<p><img src=\"uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" /></p>\n",
+				"content_text": "This is me at work today.\n\n<img src=\"uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" />\n",
+				"date_published": "2020-12-04T10:31:32-05:00",
+				"url": "https://dl.merand.org/2020/12/04/this-is-me.html"
+			},
+			{
 				"id": "http://dlm.micro.blog/2020/12/03/the-precursor-is.html",
 				
 				"content_html": "<p>The <a href=\"https://www.crowdsupply.com/sutajio-kosagi/precursor\">Precursor</a> is one of the most interesting tech hardware projects I&rsquo;ve seen. Everything Bunnie Huang makes is years ahead of the curve. Help support this project!</p>\n",
