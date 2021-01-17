@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://dlm.micro.blog/2021/01/17/try-cutting-sugar.html",
+				
+				"content_html": "<p>Try cutting sugar entirely out of your diet and replacing it with more vegetables. You&rsquo;ll be so well-adjusted you won&rsquo;t know what to do with yourself.</p>\n",
+				"content_text": "Try cutting sugar entirely out of your diet and replacing it with more vegetables. You'll be so well-adjusted you won't know what to do with yourself.\n",
+				"date_published": "2021-01-17T11:12:58-05:00",
+				"url": "https://dl.merand.org/2021/01/17/try-cutting-sugar.html"
+			},
+			{
 				"id": "http://dlm.micro.blog/2020/12/12/even-if-the.html",
 				
-				"content_html": "<blockquote>\n<p>&ldquo;Even if the bowl is broken (and the bowl is broken), from the clay and the making and the firing and the pattern, even if the pattern is incomplete (and the pattern is incomplete), let the mind draw its energy. Let the heart complete the pattern.&rdquo;</p>\n</blockquote>\n\n<p>Ursula Le Guin, __ Always Coming Home __</p>\n",
-				"content_text": "> \"Even if the bowl is broken (and the bowl is broken), from the clay and the making and the firing and the pattern, even if the pattern is incomplete (and the pattern is incomplete), let the mind draw its energy. Let the heart complete the pattern.\"\n\nUrsula Le Guin, __ Always Coming Home __\n",
-				"date_published": "2020-12-12T18:26:40-05:00",
+				"content_html": "<blockquote>\n<p>Even if the bowl is broken (and the bowl is broken), from the clay and the making and the firing and the pattern, even if the pattern is incomplete (and the pattern is incomplete), let the mind draw its energy. Let the heart complete the pattern.</p>\n</blockquote>\n\n<p>Ursula Le Guin, <em>Always Coming Home</em></p>\n",
+				"content_text": "> Even if the bowl is broken (and the bowl is broken), from the clay and the making and the firing and the pattern, even if the pattern is incomplete (and the pattern is incomplete), let the mind draw its energy. Let the heart complete the pattern.\n\nUrsula Le Guin, _Always Coming Home_\n",
+				"date_published": "2020-12-12T18:26:00-05:00",
 				"url": "https://dl.merand.org/2020/12/12/even-if-the.html"
 			},
 			{
