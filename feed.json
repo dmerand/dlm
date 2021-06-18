@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dlm.micro.blog/2021/06/18/words-of-encouragement.html",
+				
+				"content_html": "<p>Words of encouragement from Frederick P. Brooks, Jr:</p>\n\n<blockquote>\n<p>Systems program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.</p>\n</blockquote>\n",
+				"content_text": "Words of encouragement from Frederick P. Brooks, Jr:\n\n> Systems program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.\n",
+				"date_published": "2021-06-18T13:47:21-05:00",
+				"url": "https://dl.merand.org/2021/06/18/words-of-encouragement.html"
+			},
+			{
+				"id": "http://dlm.micro.blog/2021/01/19/for-all-of.html",
+				
+				"content_html": "<p>For all of the vegan, gluten-free, non-fermented folks out there, my killer condiments are Bragg&rsquo;s soy aminos for salty/funky, coconut aminos for sweet, and freshly-squeezed lemon, sumac, or pomegranate molasses for acid.</p>\n",
+				"content_text": "For all of the vegan, gluten-free, non-fermented folks out there, my killer condiments are Bragg's soy aminos for salty/funky, coconut aminos for sweet, and freshly-squeezed lemon, sumac, or pomegranate molasses for acid.\n",
+				"date_published": "2021-01-19T18:13:16-05:00",
+				"url": "https://dl.merand.org/2021/01/19/for-all-of.html"
+			},
+			{
 				"id": "http://dlm.micro.blog/2021/01/17/try-cutting-sugar.html",
 				
 				"content_html": "<p>Try cutting sugar entirely out of your diet and replacing it with more vegetables. You&rsquo;ll be so well-adjusted you won&rsquo;t know what to do with yourself.</p>\n",
