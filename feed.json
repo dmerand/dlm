@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dlm.micro.blog/2021/08/25/this-is-my.html",
+				
+				"content_html": "<p>This is my non-machinist method for tramming my drill press (making sure the bed is 90 degrees to the chuck).</p>\n\n<p><img src=\"uploads/2021/976cc8dd8b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is my non-machinist method for tramming my drill press (making sure the bed is 90 degrees to the chuck). \n\n<img src=\"uploads/2021/976cc8dd8b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-25T17:30:45-04:00",
+				"url": "https://dl.merand.org/2021/08/25/this-is-my.html"
+			},
+			{
 				"id": "http://dlm.micro.blog/2021/08/08/ill-take-any.html",
 				
 				"content_html": "<p>I&rsquo;ll take any help I can get scrubbing my stove, inclusive of a Dremel brush arbor.</p>\n\n<p><img src=\"uploads/2021/1c12f42e12.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
@@ -81,8 +89,8 @@
 			{
 				"id": "http://dlm.micro.blog/2020/12/04/this-is-me.html",
 				
-				"content_html": "<p>This is me at work today.</p>\n\n<p><img src=\"uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" /></p>\n",
-				"content_text": "This is me at work today.\n\n<img src=\"uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" />\n",
+				"content_html": "<p>This is me at work today.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" /></p>\n",
+				"content_text": "This is me at work today.\n\n<img src=\"https://dl.merand.org/uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" />\n",
 				"date_published": "2020-12-04T11:31:32-04:00",
 				"url": "https://dl.merand.org/2020/12/04/this-is-me.html"
 			},
@@ -145,8 +153,8 @@
 			{
 				"id": "http://dlm.micro.blog/2020/10/31/ive-been-listening.html",
 				
-				"content_html": "<p>I&rsquo;ve been listening to <a href=\"https://adriannelenker.bandcamp.com/album/songs\">Songs</a>  by Adrianne Lenker - it&rsquo;s better each time I listen to it. 🎵</p>\n\n<p>Good accompaniment to making some jam, applesauce, and roasted squash.</p>\n\n<p><img src=\"uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I've been listening to [Songs](https://adriannelenker.bandcamp.com/album/songs)  by Adrianne Lenker - it's better each time I listen to it. 🎵\n\n Good accompaniment to making some jam, applesauce, and roasted squash.\n\n<img src=\"uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;ve been listening to <a href=\"https://adriannelenker.bandcamp.com/album/songs\">Songs</a>  by Adrianne Lenker - it&rsquo;s better each time I listen to it. 🎵</p>\n\n<p>Good accompaniment to making some jam, applesauce, and roasted squash.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I've been listening to [Songs](https://adriannelenker.bandcamp.com/album/songs)  by Adrianne Lenker - it's better each time I listen to it. 🎵\n\n Good accompaniment to making some jam, applesauce, and roasted squash.\n\n<img src=\"https://dl.merand.org/uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-10-31T11:34:25-04:00",
 				"url": "https://dl.merand.org/2020/10/31/ive-been-listening.html"
 			},
