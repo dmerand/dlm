@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://dlm.micro.blog/2022/11/03/output-before-input.html",
+				"title": "Output before Input #290 - 2022.11.02",
+				"content_html": "<p>🎵 <a href=\"https://dl.merand.org/output-before-input/\">Output before Input</a> #290 - 2022.11.02</p>\n\n<p>(This one came straight out of my dream)</p>\n\n<p>You don&rsquo;t have to stumble and trip on this path, you can actually fly.</p>\n\n<p><audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/03508aaaf9.m4a\" preload=\"metadata\" /></p>\n",
+				"content_text": "🎵 [Output before Input](https://dl.merand.org/output-before-input/) #290 - 2022.11.02\r\n\r\n(This one came straight out of my dream)\r\n\r\nYou don't have to stumble and trip on this path, you can actually fly.\n\n<audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/03508aaaf9.m4a\" preload=\"metadata\" />\n",
+				"date_published": "2022-11-03T08:22:27-04:00",
+				"url": "https://dl.merand.org/2022/11/03/output-before-input.html",
+				"tags": ["Output before Input"]
+			},
+			{
+				"id": "http://dlm.micro.blog/2022/11/01/output-before-input.html",
+				"title": "Output before Input #289 - 2022.11.01",
+				"content_html": "<p>🎵 <a href=\"https://dl.merand.org/output-before-input/\">Output before Input</a> #289 - 2022.11.01</p>\n\n<p>Gradually sinking into the earth</p>\n\n<p><audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/e5dbc16413.m4a\" preload=\"metadata\" /></p>\n",
+				"content_text": "🎵 [Output before Input](https://dl.merand.org/output-before-input/) #289 - 2022.11.01\r\n\r\nGradually sinking into the earth\n\n<audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/e5dbc16413.m4a\" preload=\"metadata\" />\n",
+				"date_published": "2022-11-01T08:14:40-04:00",
+				"url": "https://dl.merand.org/2022/11/01/output-before-input.html",
+				"tags": ["Output before Input"]
+			},
+			{
+				"id": "http://dlm.micro.blog/2022/10/31/output-before-input.html",
+				"title": "Output before Input #288 - 2022.10.31",
+				"content_html": "<p>🎵 <a href=\"https://dl.merand.org/output-before-input/\">Output before Input</a> #288 - 2022.10.31</p>\n\n<p>Scribbling in the margins</p>\n\n<p><audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/930b4e8fe4.m4a\" preload=\"metadata\" /></p>\n",
+				"content_text": "🎵 [Output before Input](https://dl.merand.org/output-before-input/) #288 - 2022.10.31\r\n\r\nScribbling in the margins\n\n<audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/930b4e8fe4.m4a\" preload=\"metadata\" />\n",
+				"date_published": "2022-10-31T08:23:13-04:00",
+				"url": "https://dl.merand.org/2022/10/31/output-before-input.html",
+				"tags": ["Output before Input"]
+			},
+			{
+				"id": "http://dlm.micro.blog/2022/10/30/output-before-input.html",
+				"title": "Output before Input #287 - 2022.10.30",
+				"content_html": "<p>🎵 <a href=\"https://dl.merand.org/output-before-input/\">Output before Input</a> #287 - 2022.10.30</p>\n\n<p>Feeling like a kid again</p>\n\n<p><audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/72ed75bdbf.m4a\" preload=\"metadata\" /></p>\n",
+				"content_text": "🎵 [Output before Input](https://dl.merand.org/output-before-input/) #287 - 2022.10.30\r\n\r\nFeeling like a kid again\n\n<audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/72ed75bdbf.m4a\" preload=\"metadata\" />\n",
+				"date_published": "2022-10-30T08:57:26-04:00",
+				"url": "https://dl.merand.org/2022/10/30/output-before-input.html",
+				"tags": ["Output before Input"]
+			},
+			{
 				"id": "http://dlm.micro.blog/2022/10/29/output-before-input.html",
 				"title": "Output before Input #286 - 2022.10.29",
 				"content_html": "<p>🎵 <a href=\"https://dl.merand.org/output-before-input/\">Output before Input</a> #286 - 2022.10.29</p>\n\n<p>Titration</p>\n\n<p><audio controls=\"controls\" src=\"https://dl.merand.org/uploads/2022/e843e37238.m4a\" preload=\"metadata\" /></p>\n",
@@ -1015,8 +1051,8 @@
 			{
 				"id": "http://dlm.micro.blog/2022/06/26/163245.html",
 				
-				"content_html": "<p>My kid really appreciates their Palomino Blackwing.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2022/f209a9c9d2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My kid really appreciates their Palomino Blackwing. \n\n<img src=\"https://dl.merand.org/uploads/2022/f209a9c9d2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My kid really appreciates their Palomino Blackwing.</p>\n\n<p><img src=\"uploads/2022/f209a9c9d2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My kid really appreciates their Palomino Blackwing. \n\n<img src=\"uploads/2022/f209a9c9d2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-26T16:32:45-04:00",
 				"url": "https://dl.merand.org/2022/06/26/163245.html"
 			},
@@ -1086,8 +1122,8 @@
 			{
 				"id": "http://dlm.micro.blog/2022/06/20/for-those-who.html",
 				
-				"content_html": "<p>For those who may be curious, this is my main guitar setup - the rig I&rsquo;ve used for all of the Output before Input recordings.</p>\n\n<p>The guitar is a Valley Arts custom Strat clone. The amp is a Yamaha THR-10C with a chip-modded TS-9/808 tube screamer in front. I love this setup because the amp sounds amazing and I can record it direct to the computer using the &ldquo;voice memo&rdquo; app with minimal fuss.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2022/5fcc30fdfa.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dl.merand.org/uploads/2022/2f433fbb67.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "For those who may be curious, this is my main guitar setup - the rig I've used for all of the Output before Input recordings.\n\nThe guitar is a Valley Arts custom Strat clone. The amp is a Yamaha THR-10C with a chip-modded TS-9/808 tube screamer in front. I love this setup because the amp sounds amazing and I can record it direct to the computer using the \"voice memo\" app with minimal fuss. \n\n<img src=\"https://dl.merand.org/uploads/2022/5fcc30fdfa.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://dl.merand.org/uploads/2022/2f433fbb67.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>For those who may be curious, this is my main guitar setup - the rig I&rsquo;ve used for all of the Output before Input recordings.</p>\n\n<p>The guitar is a Valley Arts custom Strat clone. The amp is a Yamaha THR-10C with a chip-modded TS-9/808 tube screamer in front. I love this setup because the amp sounds amazing and I can record it direct to the computer using the &ldquo;voice memo&rdquo; app with minimal fuss.</p>\n\n<p><img src=\"uploads/2022/5fcc30fdfa.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/2f433fbb67.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "For those who may be curious, this is my main guitar setup - the rig I've used for all of the Output before Input recordings.\n\nThe guitar is a Valley Arts custom Strat clone. The amp is a Yamaha THR-10C with a chip-modded TS-9/808 tube screamer in front. I love this setup because the amp sounds amazing and I can record it direct to the computer using the \"voice memo\" app with minimal fuss. \n\n<img src=\"uploads/2022/5fcc30fdfa.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/2f433fbb67.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-06-20T15:20:39-04:00",
 				"url": "https://dl.merand.org/2022/06/20/for-those-who.html",
 				"tags": ["Output before Input"]
@@ -1848,8 +1884,8 @@
 			{
 				"id": "http://dlm.micro.blog/2022/04/09/i-dug-up.html",
 				
-				"content_html": "<p>I dug up this old project that I&rsquo;ve never shared: the Padazzler™! It&rsquo;s a custom-made table tennis paddle with LED lights that blink whenever a ball hits it. For some reason, I never posted it to Thingiverse, but maybe I will if I can find the source files.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2022/57068ff5ed.gif\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I dug up this old project that I've never shared: the Padazzler™! It's a custom-made table tennis paddle with LED lights that blink whenever a ball hits it. For some reason, I never posted it to Thingiverse, but maybe I will if I can find the source files.\n\n<img src=\"https://dl.merand.org/uploads/2022/57068ff5ed.gif\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I dug up this old project that I&rsquo;ve never shared: the Padazzler™! It&rsquo;s a custom-made table tennis paddle with LED lights that blink whenever a ball hits it. For some reason, I never posted it to Thingiverse, but maybe I will if I can find the source files.</p>\n\n<p><img src=\"uploads/2022/57068ff5ed.gif\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I dug up this old project that I've never shared: the Padazzler™! It's a custom-made table tennis paddle with LED lights that blink whenever a ball hits it. For some reason, I never posted it to Thingiverse, but maybe I will if I can find the source files.\n\n<img src=\"uploads/2022/57068ff5ed.gif\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-09T09:40:38-04:00",
 				"url": "https://dl.merand.org/2022/04/09/i-dug-up.html"
 			},
@@ -2081,8 +2117,8 @@
 			{
 				"id": "http://dlm.micro.blog/2022/03/19/its-maple-syrup.html",
 				
-				"content_html": "<p>It&rsquo;s maple syrup season! My current favorite recipe is the spiced candied cashews from this Ottolenghi recipe: <a href=\"https://youtu.be/SiaQhK7THN0\">youtu.be/SiaQhK7TH&hellip;</a> , but of course substituting maple syrup.</p>\n\n<p>Today I made it with pecans, dried maras biber pepper, garam masala, black lime, and flaky salt. It&rsquo;s magnificent.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2022/6e1471fa0e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "It's maple syrup season! My current favorite recipe is the spiced candied cashews from this Ottolenghi recipe: [youtu.be/SiaQhK7TH...](https://youtu.be/SiaQhK7THN0) , but of course substituting maple syrup. \n\nToday I made it with pecans, dried maras biber pepper, garam masala, black lime, and flaky salt. It's magnificent. \n\n<img src=\"https://dl.merand.org/uploads/2022/6e1471fa0e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>It&rsquo;s maple syrup season! My current favorite recipe is the spiced candied cashews from this Ottolenghi recipe: <a href=\"https://youtu.be/SiaQhK7THN0\">youtu.be/SiaQhK7TH&hellip;</a> , but of course substituting maple syrup.</p>\n\n<p>Today I made it with pecans, dried maras biber pepper, garam masala, black lime, and flaky salt. It&rsquo;s magnificent.</p>\n\n<p><img src=\"uploads/2022/6e1471fa0e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "It's maple syrup season! My current favorite recipe is the spiced candied cashews from this Ottolenghi recipe: [youtu.be/SiaQhK7TH...](https://youtu.be/SiaQhK7THN0) , but of course substituting maple syrup. \n\nToday I made it with pecans, dried maras biber pepper, garam masala, black lime, and flaky salt. It's magnificent. \n\n<img src=\"uploads/2022/6e1471fa0e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-19T11:48:00-04:00",
 				"url": "https://dl.merand.org/2022/03/19/its-maple-syrup.html"
 			},
@@ -2233,8 +2269,8 @@
 			{
 				"id": "http://dlm.micro.blog/2022/02/26/these-garden-ties.html",
 				
-				"content_html": "<p>These garden ties are by far the best computer cable ties I&rsquo;ve ever found. They can be cut to a perfect length, they&rsquo;re easy on the hands, they clamp quickly, and they&rsquo;re incredibly cheap relative to computer-specific ties.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2022/26f4ec42b3.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "These garden ties are by far the best computer cable ties I've ever found. They can be cut to a perfect length, they're easy on the hands, they clamp quickly, and they're incredibly cheap relative to computer-specific ties. \n\n<img src=\"https://dl.merand.org/uploads/2022/26f4ec42b3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>These garden ties are by far the best computer cable ties I&rsquo;ve ever found. They can be cut to a perfect length, they&rsquo;re easy on the hands, they clamp quickly, and they&rsquo;re incredibly cheap relative to computer-specific ties.</p>\n\n<p><img src=\"uploads/2022/26f4ec42b3.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "These garden ties are by far the best computer cable ties I've ever found. They can be cut to a perfect length, they're easy on the hands, they clamp quickly, and they're incredibly cheap relative to computer-specific ties. \n\n<img src=\"uploads/2022/26f4ec42b3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-26T16:34:02-04:00",
 				"url": "https://dl.merand.org/2022/02/26/these-garden-ties.html"
 			},
@@ -2700,24 +2736,24 @@
 			{
 				"id": "http://dlm.micro.blog/2021/08/25/this-is-my.html",
 				
-				"content_html": "<p>This is my non-machinist method for tramming my drill press (making sure the bed is 90 degrees to the chuck).</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2021/976cc8dd8b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This is my non-machinist method for tramming my drill press (making sure the bed is 90 degrees to the chuck). \n\n<img src=\"https://dl.merand.org/uploads/2021/976cc8dd8b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is my non-machinist method for tramming my drill press (making sure the bed is 90 degrees to the chuck).</p>\n\n<p><img src=\"uploads/2021/976cc8dd8b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is my non-machinist method for tramming my drill press (making sure the bed is 90 degrees to the chuck). \n\n<img src=\"uploads/2021/976cc8dd8b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-25T17:30:45-04:00",
 				"url": "https://dl.merand.org/2021/08/25/this-is-my.html"
 			},
 			{
 				"id": "http://dlm.micro.blog/2021/08/08/ill-take-any.html",
 				
-				"content_html": "<p>I&rsquo;ll take any help I can get scrubbing my stove, inclusive of a Dremel brush arbor.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2021/1c12f42e12.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I'll take any help I can get scrubbing my stove, inclusive of a Dremel brush arbor. \n\n<img src=\"https://dl.merand.org/uploads/2021/1c12f42e12.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;ll take any help I can get scrubbing my stove, inclusive of a Dremel brush arbor.</p>\n\n<p><img src=\"uploads/2021/1c12f42e12.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I'll take any help I can get scrubbing my stove, inclusive of a Dremel brush arbor. \n\n<img src=\"uploads/2021/1c12f42e12.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-08T10:25:38-04:00",
 				"url": "https://dl.merand.org/2021/08/08/ill-take-any.html"
 			},
 			{
 				"id": "http://dlm.micro.blog/2021/08/05/i-prefer-my.html",
 				
-				"content_html": "<p>I prefer my pocket knives to be clipped to my belt, but the Fällkniven U4 doesn&rsquo;t have a clip. Fortunately there&rsquo;s nothing you can&rsquo;t do with 3M VHB (very high bond) tape.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2021/352037cba7.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dl.merand.org/uploads/2021/affecb02d0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I prefer my pocket knives to be clipped to my belt, but the Fällkniven U4 doesn't have a clip. Fortunately there's nothing you can't do with 3M VHB (very high bond) tape. \n\n<img src=\"https://dl.merand.org/uploads/2021/352037cba7.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://dl.merand.org/uploads/2021/affecb02d0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I prefer my pocket knives to be clipped to my belt, but the Fällkniven U4 doesn&rsquo;t have a clip. Fortunately there&rsquo;s nothing you can&rsquo;t do with 3M VHB (very high bond) tape.</p>\n\n<p><img src=\"uploads/2021/352037cba7.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/affecb02d0.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I prefer my pocket knives to be clipped to my belt, but the Fällkniven U4 doesn't have a clip. Fortunately there's nothing you can't do with 3M VHB (very high bond) tape. \n\n<img src=\"uploads/2021/352037cba7.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/affecb02d0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-05T07:51:06-04:00",
 				"url": "https://dl.merand.org/2021/08/05/i-prefer-my.html"
 			},
@@ -2780,8 +2816,8 @@
 			{
 				"id": "http://dlm.micro.blog/2020/12/04/this-is-me.html",
 				
-				"content_html": "<p>This is me at work today.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" /></p>\n",
-				"content_text": "This is me at work today.\n\n<img src=\"https://dl.merand.org/uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" />\n",
+				"content_html": "<p>This is me at work today.</p>\n\n<p><img src=\"uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" /></p>\n",
+				"content_text": "This is me at work today.\n\n<img src=\"uploads/2020/96fd482159.gif\" width=\"600\" height=\"412\" alt=\"\" />\n",
 				"date_published": "2020-12-04T11:31:32-04:00",
 				"url": "https://dl.merand.org/2020/12/04/this-is-me.html"
 			},
@@ -2844,8 +2880,8 @@
 			{
 				"id": "http://dlm.micro.blog/2020/10/31/ive-been-listening.html",
 				
-				"content_html": "<p>I&rsquo;ve been listening to <a href=\"https://adriannelenker.bandcamp.com/album/songs\">Songs</a>  by Adrianne Lenker - it&rsquo;s better each time I listen to it. 🎵</p>\n\n<p>Good accompaniment to making some jam, applesauce, and roasted squash.</p>\n\n<p><img src=\"https://dl.merand.org/uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I've been listening to [Songs](https://adriannelenker.bandcamp.com/album/songs)  by Adrianne Lenker - it's better each time I listen to it. 🎵\n\n Good accompaniment to making some jam, applesauce, and roasted squash.\n\n<img src=\"https://dl.merand.org/uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;ve been listening to <a href=\"https://adriannelenker.bandcamp.com/album/songs\">Songs</a>  by Adrianne Lenker - it&rsquo;s better each time I listen to it. 🎵</p>\n\n<p>Good accompaniment to making some jam, applesauce, and roasted squash.</p>\n\n<p><img src=\"uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I've been listening to [Songs](https://adriannelenker.bandcamp.com/album/songs)  by Adrianne Lenker - it's better each time I listen to it. 🎵\n\n Good accompaniment to making some jam, applesauce, and roasted squash.\n\n<img src=\"uploads/2020/7f0a9051dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-10-31T11:34:25-04:00",
 				"url": "https://dl.merand.org/2020/10/31/ive-been-listening.html"
 			},
@@ -2884,8 +2920,8 @@
 			{
 				"id": "http://dlm.micro.blog/2020/10/24/212739.html",
 				
-				"content_html": "<p><img src=\"https://dl.merand.org/uploads/2020/c631677210.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p>I&rsquo;m amazed that these are real.</p>\n",
-				"content_text": "\n<img src=\"https://dl.merand.org/uploads/2020/c631677210.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nI'm amazed that these are real.\n",
+				"content_html": "<p><img src=\"uploads/2020/c631677210.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p>I&rsquo;m amazed that these are real.</p>\n",
+				"content_text": "\n<img src=\"uploads/2020/c631677210.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nI'm amazed that these are real.\n",
 				"date_published": "2020-10-24T21:27:00-04:00",
 				"url": "https://dl.merand.org/2020/10/24/212739.html"
 			},
